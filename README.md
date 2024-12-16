@@ -44,6 +44,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/murzino/murzino/output/snake.svg" alt="Snake animation" />
+### GitHub Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/murzino/murzino/output/snake.svg)
+
 
 ###
