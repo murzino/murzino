@@ -44,11 +44,5 @@
 
 ###
 
-### GitHub Contribution Snake
-
-![Snake animation]( https://github.com/murzino/murzino/blob/output/github-contribution-grid-snake.svg )
-
-![Snake animation](https://raw.githubusercontent.com/murzino/murzino/output/snake.svg)
-
 
 ###
